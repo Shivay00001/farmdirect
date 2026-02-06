@@ -1,0 +1,40 @@
+# Miscellaneous
+.class
+.log
+.lock
+.dart_tool/
+.fvm/
+
+# Flutter/Dart/Pub
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android
+android/gradleWrapper/
+android/.gradle/
+android/app/libs/
+android/app/src/main/assets/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+*.iml
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
