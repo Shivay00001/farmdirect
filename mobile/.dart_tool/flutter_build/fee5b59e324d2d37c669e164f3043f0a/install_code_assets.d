@@ -1,0 +1,1 @@
+ C:\\Users\\shiva\\.gemini\\antigravity\\scratch\\FarmDirect\\mobile\\.dart_tool\\flutter_build\\fee5b59e324d2d37c669e164f3043f0a\\native_assets.json: 
